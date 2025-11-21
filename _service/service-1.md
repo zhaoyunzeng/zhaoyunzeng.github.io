@@ -1,5 +1,5 @@
 ---
-title: "Professional Service"
+# title: "Professional Service"
 # collection: talks
 # type: "Talk"
 # permalink: /talks/2012-03-01-talk-1
