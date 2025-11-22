@@ -1,6 +1,6 @@
 ---
 # title: "Teaching"
-# collection: teaching
+collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/teaching
 # venue: "University 1, Department"
