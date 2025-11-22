@@ -2,7 +2,7 @@
 # title: "Team"
 collection: team
 # type: "Talk"
-# permalink: /talks/2012-03-01-talk-1
+permalink: /team/team-1
 # venue: "UC San Francisco, Department of Testing"
 # date: 2012-03-01
 # location: "San Francisco, CA, USA"
