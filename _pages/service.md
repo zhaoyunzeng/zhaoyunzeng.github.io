@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /service/
-title: "Professional Service"
+title: "Professional and Academic Service"
 author_profile: true
 ---
 - **Youth Editor** of *Building Simulation* (Impact factor-2024: 5.9)  Mar. 2022–Now
