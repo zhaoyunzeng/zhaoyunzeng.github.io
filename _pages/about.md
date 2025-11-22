@@ -35,11 +35,11 @@ We consistently have multiple :mortar_board: **fully funded Ph.D.**, :mortar_boa
 - Building resilience in extreme weather conditions
   
 # Education
-- **Ph.D. in Architecture**, Georgia Institute of Technology  Aug. 2016–May 2020
-- **Bachelor of Engineering**, Chu Kochen Honors College at Zhejiang University  Aug. 2012–June 2016
+- **Ph.D. in Architecture**, Georgia Institute of Technology (Aug. 2016–May 2020)
+- **Bachelor of Engineering**, Chu Kochen Honors College at Zhejiang University (Aug. 2012–June 2016)
   
 # Employment History
-- **Assistant Professor** at the University of Macau  Nov. 2025-Now
-- **Building Scientist** at Argonne National Laboratory  Jan. 2025–Sept. 2025
-- **Postdoctoral Appointee** at Argonne National Laboratory  May 2022–Jan. 2025
-- **Postdoctoral Researcher** at Lawrence Berkeley National Laboratory  Feb. 2020–Feb. 2022
+- **Assistant Professor** at the University of Macau (Nov. 2025-Now)
+- **Building Scientist** at Argonne National Laboratory (Jan. 2025–Sept. 2025)
+- **Postdoctoral Appointee** at Argonne National Laboratory (May 2022–Jan. 2025)
+- **Postdoctoral Researcher** at Lawrence Berkeley National Laboratory (Feb. 2020–Feb. 2022)
