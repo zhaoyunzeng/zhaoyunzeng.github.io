@@ -10,7 +10,8 @@ redirect_from:
 
 {% include toc %}
 
-**Dr. Zhaoyun Zeng** is currently an Assistant Professor in :office: the Department of Civil and Environmental Engineering and :office: the State Key Laboratory of Internet of Things for Smart City at the University of Macau. His research focuses on assessing the impacts of climate change on cities and developing urban adaptation strategies that leverage resilience design and renewable energy. He is among the earliest advocates in the U.S. for incorporating future weather data into building design and code-compliance analyses.  
+**Dr. Zhaoyun Zeng** is currently an Assistant Professor in :office: the Department of Civil and Environmental Engineering and :office: the State Key Laboratory of Internet of Things for Smart City at the University of Macau. His research focuses on assessing the impacts of climate change on cities and developing urban adaptation strategies that leverage resilience design and renewable energy. He is among the earliest advocates in the U.S. for incorporating future weather data into building design and code-compliance analyses.
+   
 Dr. Zeng received his Ph.D. from the Georgia Institute of Technology advised by Prof. Godfried Augenbroe. Prior to joining the University of Macau, he worked as a postdoctoral researcher at Lawrence Berkeley National Laboratory and as a building scientist at Argonne National Laboratory. 
 # Opportunities Available
 We consistently have multiple :mortar_board: **fully funded Ph.D.**, :mortar_board: **post-doctoral fellow**, and :mortar_board: **research assistant** positions avaible. Do not hesitate to contact me if you are interested.
