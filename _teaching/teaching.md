@@ -7,6 +7,7 @@ permalink: /teaching/teaching
 # date: 2014-01-01
 # location: "City, Country"
 ---
+
 # University of Macau
 ## CIVL7043 Quantitative Methods for Construction Decision Making 
 **Semester:** Academic Year 2025/2026 2nd Semester
