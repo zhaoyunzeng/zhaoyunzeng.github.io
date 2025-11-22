@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/publications.md
+    url: /publications/
 
   - title: "Awards"
     url: /awards/
