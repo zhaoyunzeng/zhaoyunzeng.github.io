@@ -1,11 +1,8 @@
 ---
-# title: "Awards"
-# collection: talks
-# type: "Talk"
-# permalink: /talks/2012-03-01-talk-1
-# venue: "UC San Francisco, Department of Testing"
-# date: 2012-03-01
-# location: "San Francisco, CA, USA"
+layout: archive
+permalink: /awards/
+title: "Awards"
+author_profile: true
 ---
 - Aug. 2017  International Building Performance Simulation Association Student Modeling Competition 2017 Highly Commended Award
 - Apr. 2017  First Place in Small Multifamily Housing Contest of the 2017 U.S. Department of Energy Race to Zero Student Design Competition

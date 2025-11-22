@@ -1,17 +1,13 @@
 ---
-# title: "Publications"
-# collection: publications
-# category: manuscripts
-permalink: /publications/publications
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-# date: 2009-10-01
-# venue: 'Journal 1'
-# slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-# bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+layout: archive
+permalink: /publications/
+title: "Publications"
+author_profile: true
 ---
-# Journal Articles
+
+{% include toc %}
+
+## Journal Articles
  \* Corresponding author
 18. Lu, D., Augenbroe, G., **Zeng, Z.\***. (2025). An occupants’ diversity-aware discussion on the economic benefits of model predictive control in buildings. Energy and Buildings, 115668.
 https://doi.org/10.1016/j.enbuild.2025.115668
@@ -50,12 +46,12 @@ https://doi.org/10.1016/j.jfluchem.2015.04.012
 1. Wang, Q., Ren, B., **Zeng, Z. Y.**, He, W., Liu, Y. Q., & Xu, X., et al. (2014). Development of a novel indirect-expansion solar-assisted multifunctional heat pump with four heat exchangers. Building Services Engineering Research and Technology, 36(4), 469–481.
 https://doi.org/10.1177/0143624414563416
 
-# Standards and Guidelines
+## Standards and Guidelines
 3. ASHRAE Guideline: Integration of Future Weather Data into Built Environment Analysis. (In progress)
 2. ASHRAE Position Document on Climate Change. (In progress)
 1. ANSI/ASHRAE/IBPSA Standard 209-2024: Building Performance Simulation Process. (Adopted by LEED v5 as a Project Priority Credit)
 
-# Conference papers
+## Conference papers
  \* Corresponding author
 6. Neymark, J., Kim, J.-H., Muehleisen, R., McDowell, T., & **Zeng, Z.** ETNA Empirical Validation: Initial Steady-State Cases and Simulation Trials. Proceedings of Building Simulation 2025: 19th Conference of IBPSA, 2025.
 https://doi.org/10.26868/25222708.2025.1269
@@ -69,7 +65,7 @@ https://doi.org/10.26868/25222708.2023.1272
 1. **Zeng, Z.\***, Brown, J., & Augenbroe, G., A comparative study on the energy performance of movable insulation and triple-glazed windows. Proceedings of Building Simulation 2019: 16th Conference of IBPSA, 2019.
 https://doi.org/10.26868/25222708.2019.210272
 
-# Chinese Invention Patents
+## Chinese Invention Patents
 7. Xu, X. G., Zhang, X. B., **Zeng, Z. Y.** (2016). A radiant cooling air conditioner designed for kitchens. Patent No.: 201610889811.0.
 6. **Zeng, Z. Y.**, Wang, Q., Wang, S. K. (2016). A shading device providing daylight and natural ventilation. Patent No.: 201610813211.6.
 5. **Zeng, Z. Y.**, Wang, Q., Zhao, J. Y., et al. (2016). A freeze-resistant solar water heater loop with rapid hot water supply. Patent No.:201610334998.8. (Assigned to an industry partner for $14,100 and being commercialized)

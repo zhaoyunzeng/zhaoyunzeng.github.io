@@ -1,11 +1,8 @@
 ---
-# title: "Professional Service"
-# collection: talks
-# type: "Talk"
-# permalink: /talks/2012-03-01-talk-1
-# venue: "UC San Francisco, Department of Testing"
-# date: 2012-03-01
-# location: "San Francisco, CA, USA"
+layout: archive
+permalink: /service/
+title: "Professional Service"
+author_profile: true
 ---
 - **Youth Editor** of *Building Simulation* (Impact factor-2024: 5.9)  Mar. 2022–Now
 - **Member** of the International Building Performance Simulation Association (IBPSA) Awards & Fellows Committee  Feb. 2023–Now
