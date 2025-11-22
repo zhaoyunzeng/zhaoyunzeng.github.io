@@ -1,11 +1,8 @@
 ---
-# title: "Teaching"
-collection: teaching
-# type: "Undergraduate course"
-permalink: /teaching/teaching
-# venue: "University 1, Department"
-# date: 2014-01-01
-# location: "City, Country"
+layout: archive
+permalink: /teaching/
+title: "Teaching"
+author_profile: true
 ---
 
 # University of Macau
