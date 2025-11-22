@@ -5,9 +5,9 @@ title: "Teaching"
 author_profile: true
 ---
 ## University of Macau
-- CIVL7043 Quantitative Methods for Construction Decision Making 
+- CIVL7043 Quantitative Methods for Construction Decision Making   
 **Semester:** Academic Year 2025/2026 2nd Semester
-- CIVL7205 Construction Cost Management
+- CIVL7205 Construction Cost Management   
 **Semester:** Academic Year 2026/2027 1st Semester
    
 ## Georgia Institute of Technology
