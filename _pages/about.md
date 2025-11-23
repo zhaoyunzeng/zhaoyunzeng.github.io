@@ -22,7 +22,7 @@ We consistently have multiple :mortar_board: **fully funded Ph.D.**, :mortar_boa
 - Admitted Ph.D. students are guaranteed a monthly Teaching and Research Assistantship stipend of :moneybag: MOP12,500 (USD1,550), which can be increased to :moneybag: MOP14,000 (USD1,736) in subsequent years. Top-ranked applicants may be awarded a scholarship of :moneybag: MOP20,000 (USD2,480) per month.
 - Ph.D. students will have extensive opportunities for research visits and postdoctoral positions in the U.S., Canada, Sweden, South Korea, and Saudi Arabia through Dr. Zeng’s professional network.
 - More information can be found at [UM Ph.D. Programmes Website](https://grs.um.edu.mo/index.php/prospective-students/doctoral-degrees-programmes/).
-## Post-doctoral fellow
+## Post-doctoral fellow positions
 - Applicants should hold a Ph.D. degree from a top-ranked university.
 - The contract term is 2 years.
 - A taxable annual remuneration from :moneybag: MOP336,000 (approximately USD41,480) will be commensurate with the successful applicants’ academic qualification and relevant professional experience. The current local maximum income tax rate is 12% but is effectively around 5% – 7% after various discretionary exemptions experience.
