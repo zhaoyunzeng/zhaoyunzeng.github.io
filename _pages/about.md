@@ -25,7 +25,7 @@ We consistently have multiple :mortar_board: **fully funded Ph.D.**, :mortar_boa
 ## Post-doctoral fellow
 - Applicants should hold a Ph.D. degree from a top-ranked university.
 - The contract term is 2 years.
-- A taxable annual remuneration from MOP336,000 (approximately USD41,480) will be commensurate with the successful applicants’ academic qualification and relevant professional experience. The current local maximum income tax rate is 12% but is effectively around 5% – 7% after various discretionary exemptions experience.
+- A taxable annual remuneration from :moneybag: MOP336,000 (approximately USD41,480) will be commensurate with the successful applicants’ academic qualification and relevant professional experience. The current local maximum income tax rate is 12% but is effectively around 5% – 7% after various discretionary exemptions experience.
 - More information can be found at [UM Talent Programme Website](https://rskto.um.edu.mo/umtp/#02).
   
 # Research Interest
