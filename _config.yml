@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zhaoyun's Homepage"
+title                    : "Dr. Zeng's Homepage"
 title_separator          : "-"
 name                     : &name "Zhaoyun Zeng"
 description              : &description "Zhaoyun Zeng's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "City, Energy, and Climate Change"
   location         : "Room 4029,
-                      Faculty of Science and Technology (E11), 
+                      Faculty of Engineering (E11), 
                       University of Macau,
                       Avenida da Universidade, 
                       Taipa, Macau, China"

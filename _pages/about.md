@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 <!-- ![Wind map](/images/wind.gif){: .align-right width="300px" }-->
-# Our achievement has been reported by the Macao SAR Government.
+# Latest News
+
+**Our achievement has been reported by the Macao SAR Government.**
 ![Macao SAR Report](/position_document.png){: .align-right width="300px" }
 Link to the news report: https://www.gov.mo/zh-hant/news/1250829/?noredirect=zh_hant
+
 {% include toc %}
 
 **Dr. Zhaoyun Zeng** is currently an Assistant Professor in :office: the Department of Civil and Environmental Engineering and :office: the State Key Laboratory of Internet of Things for Smart City at the University of Macau. His research focuses on assessing the impacts of climate change on cities and developing urban adaptation strategies that leverage resilience design and renewable energy. He is among the earliest advocates in the U.S. for incorporating future weather data into building design and code-compliance analyses.
@@ -18,7 +21,7 @@ Dr. Zeng received his Ph.D. from the Georgia Institute of Technology advised by 
 
 # Opportunities Available
 
-We consistently have multiple :mortar_board: **fully funded Ph.D.**, :mortar_board: **post-doctoral fellow**, and :mortar_board: **research assistant** positions available. Do not hesitate to contact me if you are interested.
+We consistently have multiple :mortar_board: **fully funded Ph.D.** and :mortar_board: **research assistant** positions available. Do not hesitate to contact me if you are interested.
 
 ## Ph.D. positions
 
@@ -31,6 +34,7 @@ We consistently have multiple :mortar_board: **fully funded Ph.D.**, :mortar_boa
 
 ## Post-doctoral fellow positions
 
+This position has been filled.
 - Applicants should hold a Ph.D. degree from a top-ranked university.
 - The contract term is 2 years.
 - A taxable annual remuneration from :moneybag: MOP336,000 (approximately USD41,480) will be commensurate with the successful applicants’ academic qualification and relevant professional experience. The current local maximum income tax rate is 12% but is effectively around 5% – 7% after various discretionary exemptions experience.
