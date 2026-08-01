@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Ph.D. Student
 
-### Xingtong XIE
+### Xintong XIE
 - Joined: August, 2026
 - Bachelor's degree: Building Environment and Energy Application Engineering, Hunan University, China
 
