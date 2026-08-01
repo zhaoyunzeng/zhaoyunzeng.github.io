@@ -10,7 +10,9 @@ redirect_from:
 # Latest News
 
 **Our achievement has been reported by the Macao SAR Government.**
-![Macao SAR Report](/images/position_document.png){: .align-right width="300px" }
+
+![Macao SAR Report](/images/position_document.png){: .align-center width="80%" }
+
 [Link to the news report](https://www.gov.mo/zh-hant/news/1250829/?noredirect=zh_hant)
 
 {% include toc %}
