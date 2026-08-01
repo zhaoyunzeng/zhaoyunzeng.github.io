@@ -19,7 +19,7 @@ author_profile: true
 - Bachelor's degree: Building Environment and Energy Application Engineering, Anhui University of Technology, China
 - Master's degree: Heating, Gas Supply, Ventilating and Air Conditioning Engineering, Southeast University, China
 
-## Co-Supervised Ph.D. Students
+## Co-Supervised Ph.D. Student
 
 ### Chuning TAN
 - Joined: August, 2026
