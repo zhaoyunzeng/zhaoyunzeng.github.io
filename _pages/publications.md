@@ -48,11 +48,14 @@ https://doi.org/10.1177/0143624414563416
 
 ## Standards and Guidelines
 3. ASHRAE Guideline: Integration of Future Weather Data into Built Environment Analysis. (In progress)
-2. ASHRAE Position Document on Climate Change. (In progress)
+2. ASHRAE Position Document on Climate Change. Approved by the ASHRAE Board of Directors on June 4, 2026.
+https://www.ashrae.org/about/position-documents
 1. ANSI/ASHRAE/IBPSA Standard 209-2024: Building Performance Simulation Process. (Adopted by LEED v5 as a Project Priority Credit)
 
 ## Conference papers
  \* Corresponding author
+7. Kim, J.-H. {Jeannie}, **Zeng, Z.**, Muehleisen, R. T., & Bender, A. N. Thermal Performance Optimization of Battery Energy Storage Enclosure for South Pole Applications. 2026 National Conference of IBPSA-USA.
+https://doi.org/10.26868/30680611.2026.1336
 6. Neymark, J., Kim, J.-H., Muehleisen, R., McDowell, T., & **Zeng, Z.** ETNA Empirical Validation: Initial Steady-State Cases and Simulation Trials. Proceedings of Building Simulation 2025: 19th Conference of IBPSA, 2025.
 https://doi.org/10.26868/25222708.2025.1269
 5. Peltier, C., Villa, D., **Zeng, Z.**, Kim, J.-H., Wilkerson, J., New, J., & Muehleisen, R. (2024, August 4). A climate-aware built environment: Integrating future weather data into building design today. 2024 ACEEE Summer Study on Energy Efficiency in Buildings, Pacific Grove, CA.

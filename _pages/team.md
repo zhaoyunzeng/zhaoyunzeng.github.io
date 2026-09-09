@@ -35,5 +35,7 @@ author_profile: true
 - PhD: Land surveying and Geo-informatics, Hong Kong Polytechnic University, Hong Kong SAR
 
 ## Master Student
-   
+- Zhaojing WANG
+- Weixuan LUO
+
 ## Alumni
