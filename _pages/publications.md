@@ -47,7 +47,7 @@ https://doi.org/10.1016/j.jfluchem.2015.04.012
 https://doi.org/10.1177/0143624414563416
 
 ## Standards and Guidelines
-3. ASHRAE Guideline: Integration of Future Weather Data into Built Environment Analysis. (In progress)
+3. ASHRAE Guideline 49P: Integration of Future Weather Data into Built Environment Analysis. (In progress)
 2. ASHRAE Position Document on Climate Change. Approved by the ASHRAE Board of Directors on June 4, 2026.
 https://www.ashrae.org/about/position-documents
 1. ANSI/ASHRAE/IBPSA Standard 209-2024: Building Performance Simulation Process. (Adopted by LEED v5 as a Project Priority Credit)
