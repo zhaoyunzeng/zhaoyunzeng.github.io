@@ -76,3 +76,8 @@ https://doi.org/10.26868/25222708.2019.210272
 3. Xu, X. G., **Zeng, Z. Y.**, Qian, J. Y., et al. (2015). A reflective radiant cooling system. Patent No.: 201510460237.2.
 2. **Zeng, Z. Y.**, Wang, Q., Zhang, H. H., et al. (2015). A combined Darrieus–Savonius vertical-axis wind turbine. Patent No.:201510770037.7.
 1. **Zeng, Z. Y.**, Wang, Q., Tian, Z. X., et al. (2015). A wind-powered dual-function air conditioning system for cooling and heating. Patent No.: 201510423785.8.
+
+## Invited Talks
+3.	Climate Change Impact Assessment and Adaptation Strategies for Cities. Tsinghua Building Science and Technology Forum: Academic Seminar. September 22, 2026. Tsinghua University, Beijing, China.
+2.	Argonne future weather dataset. Data Science Workstream - Energy Issue, Siemens Inc. March 4, 2024. Online.
+1.	Introduction to future weather data. IBPSA Chicago Chapter Fall 2023 Meetup. September 21, 2023. Chicago, Illinois, USA.
